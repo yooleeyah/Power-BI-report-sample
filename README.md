@@ -1,1 +1,1 @@
-# Power-BI-report-sample
+# Пример отчёта Power BI
